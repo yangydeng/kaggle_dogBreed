@@ -1,0 +1,4 @@
+inception_preprocessing.py and inception_resnet_v2.py are download from URL below:
+https://github.com/tensorflow/models/tree/master/research/slim
+
+For save space, some files which don't need to use have been deleted.
